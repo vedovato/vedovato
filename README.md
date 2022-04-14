@@ -1,6 +1,6 @@
 ### Hey, I'm Andrei! 👋
 
-🤓 JS Full-Stack Developer at [@Opah IT](https://opah.com.br/) <br>
+🤓 JS Full-Stack Developer at [Opah IT](https://opah.com.br/) <br>
 🇧🇷 Based in Sao Paulo, Brazil <br>
 
 ### What I'm working on 👨‍💻

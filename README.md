@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Andrei! 👋
 
-<!--
-**vedovato/vedovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 JS Full-Stack Developer at [@Opah IT](https://opah.com.br/) <br>
+🇧🇷 Based in Sao Paulo, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently building a better developer profile on Linkedin <br>
+📚 Currently getting a degree at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+
+### Find me elsewhere 🌎
+
+🚀 [Now](https://magic-beginner-466.notion.site/Andrei-Vedovato-6acbdc15252c413b92eca5b3a6a0f954) <br>
+🐦 [Twitter](https://twitter.com/andreivedovato) <br>
+📸 [Instagram](https://instagram.com/andreivedovato) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/andreivedovato) <br>

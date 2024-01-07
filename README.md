@@ -1,7 +1,7 @@
 ### Hey, I'm Andrei! 👋
 
 🤓 JS Full-Stack Developer <br>
-🇧🇷 Based in Sao Paulo, Brazil <br>
+🇧🇷 Brazil Based <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedovato&layout=compact)
 
@@ -12,6 +12,5 @@
 ### Find me elsewhere 🌎
 
 🚀 [Now](https://magic-beginner-466.notion.site/Andrei-Vedovato-6acbdc15252c413b92eca5b3a6a0f954) <br>
-🐦 [Twitter](https://twitter.com/andreivedovato) <br>
-📸 [Instagram](https://instagram.com/andreivedovato) <br>
+🐦 [X](https://twitter.com/liveitcodeit) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/andreivedovato) <br>
